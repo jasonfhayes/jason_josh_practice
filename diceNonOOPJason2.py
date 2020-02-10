@@ -13,3 +13,5 @@ print('\nTotal:\tCount:\tPercetage:')
 for i in range(2, 13):
 	special_number = ('{:.2f}'.format((my_dict[i]/how_many)*100))
 	print(f'{i}:\t{my_dict[i]}\t{special_number}%')
+	
+# hello world
